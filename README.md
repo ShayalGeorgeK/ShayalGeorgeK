@@ -1,4 +1,4 @@
-**👋 Hi, I'm Shayal George**
+**👋 Hi, I'm Shayal**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I am an aspiring Full-Stack Developer currently focused on mastering the MERN stack and building production-ready applications with clean architecture, scalable backend design, and maintainable frontend systems.
