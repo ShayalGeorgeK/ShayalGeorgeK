@@ -18,7 +18,7 @@ I approach learning like engineering — with structured practice, real projects
 🛠 Technical Stack
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- **Frontend :** React.js | JavaScript (ES6+) | Tailwind CSS | HTML5 & CSS3
+- **Frontend :** React.js | JavaScript | HTML5 & CSS3
 - **Backend :** Node.js | Express.js
 - **Database :** MongoDB
 - **Tools :** Git & GitHub | VS Code
