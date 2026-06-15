@@ -16,7 +16,9 @@ I approach learning like engineering — with structured practice, real projects
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ## 🚀 Projects
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ### 🛒 Sanctuary - MERN E-Commerce Platform
 Full-stack e-commerce application built with MongoDB, Express.js, React.js, and Node.js.
 - User authentication & authorization
