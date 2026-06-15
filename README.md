@@ -13,6 +13,25 @@ I approach learning like engineering — with structured practice, real projects
 - Designing RESTful APIs with proper authentication & validation
 - Strengthening problem-solving skills (DSA & logical thinking)
 - Improving backend architecture & performance fundamentals
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ## 🚀 Projects
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🛒 Sanctuary - MERN E-Commerce Platform
+Full-stack e-commerce application built with MongoDB, Express.js, React.js, and Node.js.
+- User authentication & authorization
+- Admin dashboard
+- Product management
+- Cart and order management
+- Payment integration
+- Responsive UI
+
+### 💼 Personal Portfolio Website
+Responsive developer portfolio built using React.js and Tailwind CSS.
+- Modern UI design
+- Project showcase
+- Contact form integration
+- Mobile-friendly layout
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠 Technical Stack
